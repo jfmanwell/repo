@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Feb 24 09:19:44 2025
+
+@author: jfman
+"""
+
+# Ignore virtual environments
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables or secrets
+.env
+!
