@@ -1,5 +1,5 @@
 
-__version__ = "1.0.13"
+__version__ = "1.1.0"
 import numpy as np
 pi = np.pi
 print("pi",pi)
