@@ -5,6 +5,8 @@ pi = np.pi
 print("pi",pi)
 print("!!!",pi)
 print("!!!",pi)
+x = 2
+print(x)
 print("@@@@",pi)
 
 print("imaginary")
