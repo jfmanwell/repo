@@ -9,8 +9,3 @@ x = 2
 print(x)
 print("@@@@",pi)
 
-print("imaginary")
-print("aardvark")
-print("@@@@",pi)
-print("imaginary")
-print("aardvark")
